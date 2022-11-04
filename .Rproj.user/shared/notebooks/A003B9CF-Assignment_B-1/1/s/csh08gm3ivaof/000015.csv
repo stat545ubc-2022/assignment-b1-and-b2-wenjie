@@ -1,0 +1,6 @@
+"0","Hotel_Dataset <- data.frame("
+"0","  City = c(""Vancouver"", ""Vancouver"", ""Vancouver"", ""Ames"", ""Ames"", ""Taipei""),"
+"0","  Location = c(""Richmond"", ""Downtown"", ""Marine Drive"", ""Boulvard"", ""ISU"", ""Dehui""),"
+"0","  Vacancy_rooms = c(10, 5, 20, 2, 100, 50),"
+"0","  Price = c(200, 100, 250, 180, 200, 250)"
+"0",")"

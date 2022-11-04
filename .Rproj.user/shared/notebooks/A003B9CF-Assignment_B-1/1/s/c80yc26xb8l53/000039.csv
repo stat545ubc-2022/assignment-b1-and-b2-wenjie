@@ -1,0 +1,5 @@
+"0","mean_of_each_group(Hotel_Dataset, ""City"", ""Vacancy_rooms"")"
+"2","Note: Using an external vector in selections is ambiguous.
+[34mℹ[39m Use `all_of(y)` instead of `y` to silence this message.
+[34mℹ[39m See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>.
+[90mThis message is displayed once per session.[39m"
